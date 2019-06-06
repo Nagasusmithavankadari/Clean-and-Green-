@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">green2</string>
+    <string name="password">password</string>
+    <string name="loginhere">LoginHere</string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="register_here">register_Here</string>
+    <string name="already_registered">already_registered</string>
+    <string name="register">register</string>
+    <string name="password2">password2</string>
+    <string name="Loginhere">Loginhere</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="send_image">send_image</string>
+    <string name="sweeper">Sweeper</string>
+    <string name="Login">Login</string>
+    <string name="title_activity_camera">camera</string>
+</resources>
